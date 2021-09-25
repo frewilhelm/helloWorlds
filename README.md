@@ -8,7 +8,7 @@ Languages
 - [x] C
 - [x] C#
 - [x] C++
-- [ ] Golang
+- [x] Golang
 - [ ] Haskell
 - [ ] Java
 - [ ] JavaScript
