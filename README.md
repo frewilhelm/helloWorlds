@@ -5,7 +5,7 @@ Languages
 - [x] ABAP
 - [x] awk
 - [x] Bash
-- [ ] C
+- [x] C
 - [ ] C#
 - [ ] C++
 - [ ] Golang
