@@ -1,0 +1,11 @@
+# Ignore all (ensure binary files are not added)
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore *.out files
+*.out
