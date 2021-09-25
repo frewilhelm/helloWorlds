@@ -9,3 +9,7 @@
 
 # Ignore *.out files
 *.out
+
+# Ignore C#/bin and C#/obj since they store "a bit" of metadata^^
+C#/bin/
+C#/obj/
