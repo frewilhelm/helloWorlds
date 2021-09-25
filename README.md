@@ -2,7 +2,7 @@
 Several examples of "Hello World" and array-looping-programms in different languages.
 
 Languages
-- [ ] ABAP (?)
+- [x] ABAP
 - [ ] awk
 - [ ] Bash
 - [ ] C

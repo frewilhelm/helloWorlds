@@ -1,0 +1,16 @@
+* Apparently, it is necessary to install NetWeaver to play with ABAP. However,*
+* I don't want to install NetWeaver just to play around with ABAP. So, this is*
+* some copied code, that cannot be compiled (at least I guess so).*
+
+* Write "Hello World" (see http://helloworldcollection.de/#ABAP4) *
+WRITE: 'Hello World'.
+
+* Loop over Array (see https://help.sap.com/doc/abapdocu_750_index_htm/7.50/de-de/abaploop_at_itab.htm)*
+TYPES t_itab TYPE TABLE OF i WITH EMPTY KEY.
+
+LOOP AT VALUE t_itab( ( 1 ) ( 2 ) ( 3 ) ) ASSIGNING FIELD-SYMBOL(<fs>).
+  cl_demo_output=>write( |{ <fs> }| ).
+ENDLOOP.
+cl_demo_output=>display().
+
+* This looks odd...*
