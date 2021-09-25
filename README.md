@@ -7,7 +7,7 @@ Languages
 - [x] Bash
 - [x] C
 - [x] C#
-- [ ] C++
+- [x] C++
 - [ ] Golang
 - [ ] Haskell
 - [ ] Java
