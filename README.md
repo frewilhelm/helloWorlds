@@ -6,7 +6,7 @@ Languages
 - [x] awk
 - [x] Bash
 - [x] C
-- [ ] C#
+- [x] C#
 - [ ] C++
 - [ ] Golang
 - [ ] Haskell
