@@ -3,7 +3,7 @@ Several examples of "Hello World" and array-looping-programms in different langu
 
 Languages
 - [x] ABAP
-- [ ] awk
+- [x] awk
 - [ ] Bash
 - [ ] C
 - [ ] C#
