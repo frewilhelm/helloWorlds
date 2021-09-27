@@ -9,7 +9,7 @@ Languages
 - [x] C#
 - [x] C++
 - [x] Golang
-- [ ] Haskell
+- [x] Haskell
 - [ ] Java
 - [ ] JavaScript
 - [ ] Julia
