@@ -3,8 +3,10 @@ Several examples of "Hello World" and array-looping-programms in different langu
 
 Languages
 - [x] ABAP
+- [ ] Assembler
 - [x] awk
 - [x] Bash
+- [ ] BF
 - [x] C
 - [x] C#
 - [x] C++
@@ -25,6 +27,7 @@ Languages
 - [ ] Swift
 - [ ] TypeScript
 - [ ] Visual Basic (Script)
+- [ ] Whitespace
 
 ## Why?
 
