@@ -3,7 +3,7 @@ Several examples of "Hello World" and array-looping-programms in different langu
 
 Languages
 - [x] ABAP
-- [ ] Assembler
+- [ ] Assembler (Missing array)
 - [x] awk
 - [x] Bash
 - [ ] BF
