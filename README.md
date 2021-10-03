@@ -15,6 +15,7 @@ Languages
 - [ ] Java
 - [ ] JavaScript
 - [ ] Julia
+- [ ] Lisp
 - [ ] NodeJS
 - [ ] Pascal
 - [ ] Perl
