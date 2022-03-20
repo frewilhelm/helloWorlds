@@ -10,6 +10,7 @@ Languages
 - [x] C
 - [x] C#
 - [x] C++
+- [ ] COBOL
 - [x] Golang
 - [x] Haskell
 - [x] Java
