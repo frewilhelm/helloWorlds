@@ -13,7 +13,7 @@ Languages
 - [x] Golang
 - [x] Haskell
 - [x] Java
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] Julia
 - [ ] Lisp
 - [ ] NodeJS
