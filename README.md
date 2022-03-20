@@ -12,7 +12,7 @@ Languages
 - [x] C++
 - [x] Golang
 - [x] Haskell
-- [ ] Java
+- [x] Java
 - [ ] JavaScript
 - [ ] Julia
 - [ ] Lisp
